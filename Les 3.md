@@ -9,7 +9,10 @@ Lesweek 3 staat in het teken van functies. We gaan leren wat een functie doet en
 
 Voor mensen die wiskunde B of D op de HAVO of VWO hebben gehad zal een functie bekend voorkomen.
 
-## Opdracht A: Shake and return.
+---
+---
+
+## **Opdracht A: Shake and return.**
 
 Schrijf een functie die de letters van een woord willekeurig door elkaar schudt. 
 ```js
@@ -33,3 +36,12 @@ Hier komt jouw functie
 var woord1 = ShakeFunctie("Boekenkast");
 console.log(woord1);
 ```
+
+---
+## **Opdracht B:**
+
+---
+## **Opdracht C:**
+
+---
+## **Opdracht D:**

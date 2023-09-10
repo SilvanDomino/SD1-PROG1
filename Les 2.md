@@ -8,7 +8,10 @@ Lesweek 2 staat in het teken van operators en if en else statements. We gaan ler
 Om dit vak voldoende af te ronden moet je voor iedere lesweek **2** van de 3/4 opdrachten maken. Deze opdrachten laat je aan de docent zien.
 Alle code voor deze module plaats je in dezelfde map.
 
-## Opdracht A: Moet ik op school zijn?
+---
+---
+
+## **Opdracht A: Moet ik op school zijn?**
 De lessen zijn op school van 9 tot 4. Met de onderstaande code kan je de huidige tijd (en uur) ophalen.
 ```js
 let huidigeTijd = new Date();
@@ -23,7 +26,9 @@ if(huidigeTijd.getHours() > ??){
 ```
 Print `Ik moet op school zijn` als je op school moet zijn.
 
-## Opdracht B: May I come in?
+---
+
+## **Opdracht B: May I come in?**
 Maak programma dat controleert of je oud genoeg bent om naar binnen te mogen.
 
 Gebruik het input commando zodat de gebruiker antwoord kan geven op vragen.
@@ -47,7 +52,9 @@ of
 [systeem print]: Dan mag je helaas niet naar binnen.
 ```
 
-## Opdracht C:
+---
+
+## **Opdracht C: Welke dag?**
 Met de onderstaande code kan je kijken of je naar school moet.
 
 ```js
@@ -62,4 +69,6 @@ if(schooldag == true){
 
 Verander de code zo dat dat de schooldag variabelen geen `true` of `false` is, maar een dag. Bijvoorbeeld `maandag`, `donderdag` of `zaterdag`. Gebruik `if`, `else if` en `else` om tot de juiste beslissing te komen.
 
-## Opdracht D:
+---
+
+## **Opdracht D:**
