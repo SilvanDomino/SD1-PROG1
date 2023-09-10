@@ -9,13 +9,18 @@ Lesweek 1 staat in het teken van taal, installeren en het uitvoeren van javascri
 Om dit vak voldoende af te ronden moet je voor iedere lesweek 2 van de 3/4 opdrachten maken. Deze opdrachten laat je aan de docent zien.
 Alle code voor deze module plaats je in dezelfde map.
 
-## Opdracht A: Hello World
+---
+---
+
+## **Opdracht A: Hello World**
 * Maak een bestand genaamd `JS1 Hello World.js`.
 * Schrijf code. Deze code print 'hello world' uit in de terminal.
 * Open een nieuwe terminal in Visual Studio Code.
 * Voer de code uit door in de terminal `node JS1 Hello World.js` te typen. Node om aan te geven dat je het javascript in door `node` wilt laten uitvoeren en de bestandsnaam om aan te geven welk bestand je laat gaan uitvoeren.
 
-## Opdracht B: Player Statistics
+---
+
+## **Opdracht B: Player Statistics**
 Verzin een spel waarbij de speler 10 verschillende eigenschappen heeft. Bijvoorbeeld: hoe sterk? hoeveel levens, hoe snel?, hoeveel punten? etc.
 
 Sla alle informatie over de speler op in een eigen variabele en print de naam en de waarde uit gescheiden door een :
@@ -39,8 +44,8 @@ battery power: 90
 level: 9000
 wanted: True
 ```
-
-## Opdracht C: Hello You
+---
+## **Opdracht C: Hello You**
 Maak een programma wat gebruik maakt van het input commando
 
 Zorg dat het programma vraagt om de naam van de gebruiker.
@@ -53,8 +58,8 @@ Bijvoorbeeld deze output:
 [gebruiker voert naam in]: Silvan
 [programma print]: Hoi Silvan aangenaam kennis te maken!
 ```
-
-## Opdracht D: Rijmpje
+---
+## **Opdracht D: Rijmpje**
 Print een gedicht over jezelf. Wie ben je? Waar woon je? Wat vind je leuk? Waar heb je een hekel aan? Wat voor games speel je? Wat doe je nog meer in je vrije tijd? Het verhaal moet in gedicht vorm zijn. De zinnen moeten dus rijmen.
 
 Gebruik per vers een variabele:
