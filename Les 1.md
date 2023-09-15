@@ -58,6 +58,10 @@ Bijvoorbeeld deze output:
 [gebruiker voert naam in]: Silvan
 [programma print]: Hoi Silvan aangenaam kennis te maken!
 ```
+
+### Hoe doe je input
+Uitleg over het gebruik van input krijg je bij de BO les.
+Eventueel kan je ook al eerder aan de slag, door middel van [deze link](https://www.npmjs.com/package/readline-sync?activeTab=readme#basic_options).
 ---
 ## **Opdracht D: Rijmpje**
 Print een gedicht over jezelf. Wie ben je? Waar woon je? Wat vind je leuk? Waar heb je een hekel aan? Wat voor games speel je? Wat doe je nog meer in je vrije tijd? Het verhaal moet in gedicht vorm zijn. De zinnen moeten dus rijmen.
