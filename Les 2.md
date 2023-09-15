@@ -17,7 +17,7 @@ De lessen zijn op school van 9 tot 4. Met de onderstaande code kan je de huidige
 let huidigeTijd = new Date();
 console.log(huidigeTijd.getHours());
 ```
-Schrijf een if statement die kijkt of je les hebt. De onderstaande 
+Schrijf een if statement die kijkt of je les hebt. De onderstaande code is een begin. Geef ook aan wanneer je niet op school moet zijn.  
 
 ```js
 if(huidigeTijd.getHours() > ??){
