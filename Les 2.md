@@ -15,7 +15,7 @@ Alle code voor deze module plaats je in dezelfde map.
 De lessen zijn op school van 9 tot 4. Met de onderstaande code kan je de huidige tijd (en uur) ophalen.
 ```js
 let huidigeTijd = new Date();
-console.log(now.getHours());
+console.log(huidigeTijd.getHours());
 ```
 Schrijf een if statement die kijkt of je les hebt. De onderstaande 
 
