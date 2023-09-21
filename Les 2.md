@@ -35,7 +35,7 @@ Gebruik het input commando zodat de gebruiker antwoord kan geven op vragen.
 
 Zorg dat het systeem ook om bewijs vraagt in de vorm van een ID.
 
-Als je niet oud genoeg bent of geen ID wil laten zien mag je er niet in. Anders wel.
+Als je niet oud genoeg bent of geen ID wil laten zien mag je er niet in. Anders wel. 
 
 Bijv.
 ```

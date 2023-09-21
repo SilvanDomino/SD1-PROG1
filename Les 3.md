@@ -38,10 +38,59 @@ console.log(woord1);
 ```
 
 ---
-## **Opdracht B:**
+## **Opdracht B: Wiskunde**
+Deze opdracht bestaat uit een serie kleine wiskunde opgaves.
+### Wiskunde opgave 1
+Schrijf een functie die de inhoud van een kubus berekent.   
+Je geeft de lengte, hoogte en de diepte mee als argumenten.   
+De functie returned het resultaat. Hieronder een voorbeeld hoe de functie aangeroepen kan worden en het resultaat uitgeprint.   
+```js
+let kubusInhoud = berekenInhoud(10, 5, 10);
+console.log(kubus);
+```
+### Wiskunde opgave 2
+Schrijf een functie die de inhoud van een cylinder berekent. De formule die je daar voor nodig hebt is als volgt: `radius² * π * hoogte`.    
+Je geeft de diameter en hoogte mee als argumenten.   
+De functie returned het resultaat.
+### Wiskunde opgave 3
+Schrijf een functie die de lange zijde van een rechthoekige driehoek berekent. Maak gebruik van de stelling van pythagoras.    
+Je geeft de lengte en de hoogte van de driehoek mee.   
+De functie returned de lengte van de lange zijde.    
+### Wiskunde opgave 4
+Schrijf een functie die het gemiddelde van 7 getallen berekent.   
+Je geeft 6 getallen mee.   
+De functie returned het gemiddelde.  
 
 ---
-## **Opdracht C:**
+
+## **Opdracht C: Leeftijd berekening**
+
+Maak een functie voor het berekenen van je leeftijd in dagen sinds je geboorte.
+
+Zorg dat de functie 3 argumenten kan ontvangen :
+
+1. geboorteJaar
+2. geboorteMaand
+3. geboorteDag
+
+De functie returned de leeftijd in jaren.
+
+Hieronder een voorbeeld van de command line terminal:
+``` 
+Welk jaar ben je geboren? 1990
+Welke maand ben je geboren? 2
+Welke dag ben je geboren? 8
+Je bent 33.55 jaar oud
+```
+### Tip: 
+
+```js
+  let now = new Date();
+  let birth = new Date(2006, 2, 9); 
+  let miliseconds = now-birth;
+```
+
+Met deze regels code bereken je de leeftijd in milisecondes. Met de eerste regel kijken we naar de huidige datum, met de tweede regel pakken we de geboorte datum. Met de derde regel berekenen we het verschil. In dit voorbeeld is het verschil ongeveer 17 jaar.
 
 ---
-## **Opdracht D:**
+

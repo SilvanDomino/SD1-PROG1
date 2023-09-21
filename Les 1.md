@@ -5,6 +5,7 @@ Lesweek 1 staat in het teken van taal, installeren en het uitvoeren van javascri
 * Ontwikkelomgeving opzetten
 * Code schrijven
 * Code uitvoeren
+* Bekend raken met enkele verschillende datatypes
 
 Om dit vak voldoende af te ronden moet je voor iedere lesweek 2 van de 3/4 opdrachten maken. Deze opdrachten laat je aan de docent zien.
 Alle code voor deze module plaats je in dezelfde map.
