@@ -58,7 +58,7 @@ Je geeft de lengte en de hoogte van de driehoek mee.
 De functie returned de lengte van de lange zijde.    
 ### Wiskunde opgave 4
 Schrijf een functie die het gemiddelde van 7 getallen berekent.   
-Je geeft 6 getallen mee.   
+Je geeft 7 getallen mee.   
 De functie returned het gemiddelde.  
 
 ---
