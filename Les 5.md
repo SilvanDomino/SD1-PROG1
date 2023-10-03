@@ -46,9 +46,4 @@ Maak gebruik van loops om alles te blijven herhalen, en ook gebruik van functies
 
 ---
 
-## **Opdracht B: Leeftijd berekening**
-```
 
-```
-
-## **Opdracht C: Videos galgje**

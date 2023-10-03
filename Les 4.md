@@ -56,7 +56,7 @@ Schrijf een programma die alle tafels van 1x1 tot 50x50 uit print.
 
 ## **Opdracht D: Factoriaal**
 
-Factoriaal is de som van alle kleinere getallen. Factoriaal van 5 (opgeschreven als `5!`) is `5+4+3+2+1`, dus 15.
+Factoriaal is de som van alle kleinere getallen. Factoriaal van 5 (opgeschreven als `5!`) is `5*4*3*2*1`, dus 120.
 Schrijf een functie je een getal als argument mee geeft.
 De factoriaal berekend en deze vervolgens returned.
 
@@ -67,7 +67,7 @@ console.log(result);
 
 ---
 
-## ** Opdracht E: Cookie Clicker
+## ** Opdracht E: Cookie Clicker**
 
 Maak een simpele Cookie Clicker game    
 Zorg dat het systeem vraagt of je wil klikken.   
