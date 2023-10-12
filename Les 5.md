@@ -1,5 +1,5 @@
 # Opdrachten lesweek 5
-Lesweek 3 staat in het teken van herhaling. We gaan herhalen wat een functie doet, ook gaan we opnieuw kijken naar variabelen, if statements en loops.
+Lesweek 5 staat in het teken van herhaling. We gaan herhalen wat een functie doet, ook gaan we opnieuw kijken naar variabelen, if statements en loops.
 
 * Functies kunnen aanroepen.
 * Introductie tot eigen functies schrijven.
@@ -47,3 +47,11 @@ Maak gebruik van loops om alles te blijven herhalen, en ook gebruik van functies
 ---
 
 
+## ** Opdracht B: Discord bot**
+
+Maak een discord bot aan de hand van de eerste 5 videos.
+1. Waar gaan we naar toe werken; opdracht maken van bo
+2. Inloggen
+3. Berichten ontvangen
+4. Berichten versturen
+5. Op specifieke berichten antwoorden
