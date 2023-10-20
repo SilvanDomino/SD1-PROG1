@@ -25,8 +25,8 @@ Maak een [array](https://www.w3schools.com/js/js_arrays.asp) aan en zet daar in 
 Voer op correcte wijze alle verschillende [Array Methods](https://www.w3schools.com/js/js_array_methods.asp) uit en print daarna  steeds de inhoud van je array. Print indien van toepassing ook het resultaat van de method. (Bij een return ook)
 
 
-## **Opdracht C: **
-Gebruik de List uit dit script.
+## **Opdracht C: Can you handle the list**
+Gebruik de array uit dit script.
 ```js
 let stuff = ['c',5645,9393.77,"hello", true, false, "Good morning",88, -90, 777.777, 90,665.33,"F"]
 if( typeof(stuff[0]) == "number" ){   //met deze if statement wordt gekeken of het eerste element een getal is8
@@ -34,17 +34,15 @@ if( typeof(stuff[0]) == "number" ){   //met deze if statement wordt gekeken of h
 }
 ```
 
-Maak zelf lists aan voor elke datatype. Maak een list voor:
+Maak zelf arrays aan voor elke datatype. Maak een list voor:
 * strings
 * numbers
 * booleans
 
-Zorg dat je met een loop van elk item in de List controleert welk datatype het is. In het bevengenoemde script zie je een voorbeeld van deze controle. Alle items die een string zijn verplaats je naar de array strings. Alle integers naar integers enzovoort.
+Zorg dat je met een loop van elk item in de array controleert welk datatype het is. In het bevengenoemde script zie je een voorbeeld van deze controle. Alle items die een string zijn verplaats je naar de array strings. Alle getallen naar numbers enzovoort.
 
-Print daarna de inhoud van elke Lijst.
+Print daarna de inhoud van elke array.
 
-Bonus:
-Wat voor soort lijsten zijn het meest efficient om te gebruiken?
 
 ```js
 let stuff = ['c',5645,9393.77,"hello", true, false, "Good morning",88, -90, 777.777, 90,665.33,"F"]
@@ -53,7 +51,7 @@ if(typeof(stuff[0]) == "number"){
 }
 ```
 
-## **Opdracht D: **
+## **Opdracht D: Boodschappenlijstje**
 Maak een programma waarmee je items toe kunt voegen aan een boodschappelijst.
 
 Gebruik het array type en de methoden `push` en `splice` om items aan de lijst toe te voegen of te verwijderen.
