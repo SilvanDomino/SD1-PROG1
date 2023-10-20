@@ -25,7 +25,7 @@ Maak een [array](https://www.w3schools.com/js/js_arrays.asp) aan en zet daar in 
 Voer op correcte wijze alle verschillende [Array Methods](https://www.w3schools.com/js/js_array_methods.asp) uit en print daarna  steeds de inhoud van je array. Print indien van toepassing ook het resultaat van de method. (Bij een return ook)
 
 
-## **Opdracht C: Can you handle the list**
+## **Opdracht C: Can you order the list**
 Gebruik de array uit dit script.
 ```js
 let stuff = ['c',5645,9393.77,"hello", true, false, "Good morning",88, -90, 777.777, 90,665.33,"F"]
